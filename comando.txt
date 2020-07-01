@@ -1,0 +1,29 @@
+Iniciando aplicação com o cli do react atraves dos comandos
+
+ yarn create react-app "nome do projeto"
+
+ Apagando os arquivos desnecessarios deixando somente App.js,index.js,package.json
+ .gitignore,/public favicon.icon,index.html
+
+ --------------------------------------------------------------------------------
+ configurando .editorconfig e configurando
+ -------------------------------------------------------------------------------
+ yarn add eslint -D
+ yarn eslint --init
+
+Removendo arquivos package-lock.JSON
+
+ yarn
+
+
+ yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+ -------------------------------------------------------------------------------
+ yarn add react-router-dom
+ -------------------------------------------------------------------------------
+ yarn add styled-components
+
+ yarn add react-icons
+
+yarn add axios
+
+yarn add prop-types

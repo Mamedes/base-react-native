@@ -1,0 +1,31 @@
+npx react-native init goreactnative
+yarn add eslint -D
+yarn eslint --init
+
+remover package-lock.json
+
+---------------------- rodar--------------------
+yarn
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+-------------------------PROBLEMAS NO EMULADOR RODAS ESSES COMANDOS-------------
+react-native start --reset-cache
+react-native run-android
+--------------------------------------------------------------------------------
+yarn add reactotron-react-native
+--------------------------------------------------------------------------------
+yarn add react-navigation
+yarn add @react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add react-navigation-stack
+--------------------------------------------------------------------------------
+yarn add styled-components
+yarn add react-native-vector-icons
+
+yarn add axios
+--------------------------------------------------------------------------------
+yarn add @react-native-community/async-storage
+
+yarn add prop-types
+
